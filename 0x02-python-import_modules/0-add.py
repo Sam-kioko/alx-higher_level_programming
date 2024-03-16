@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 from add_0 import add
 
 
@@ -9,5 +10,5 @@ def main():
     print("{} + {} = {}".format(a, b, result))
 
 
-if __name__ == "__import__":
+if __name__ == "__main__":
     main()
