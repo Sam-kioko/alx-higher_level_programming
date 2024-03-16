@@ -4,7 +4,6 @@ import variable_load_5
 
 def main():
     val = variable_load_5.a
-
     print(val)
 
 
