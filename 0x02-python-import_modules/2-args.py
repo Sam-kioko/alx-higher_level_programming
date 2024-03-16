@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import sys
 
+
 def main(argv):
     num_args = len(argv) - 1
 
